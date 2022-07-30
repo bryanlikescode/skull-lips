@@ -26,10 +26,10 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 1000,
     layersOrder: [
-      { name: "1.atras" },
-      { name: "2.body" },
-      { name: "3.mamadita" },
-      { name: "4.mamadota" },
+      { name: "Background" },
+      { name: "Body" },
+      { name: "Accessory" },
+      { name: "Feature" },
     ],
   },
 ];
