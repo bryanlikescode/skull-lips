@@ -1,0 +1,48 @@
+x100
+bot
+cig : 2475
+clear : 4950
+dientiOro : 50
+notATong : 2475
+rainbowPuke : 50
+
+background
+cherry : 1529
+chicle : 765
+gold : 765
+lemon : 31
+lime : 31
+menta : 765
+pink : 3058
+purple : 3058
+
+body
+alien : 665
+baby : 1995
+blood : 665
+brown : 2660
+death : 1995
+necro : 665
+pixel : 270
+skullCandy : 665
+zombie : 665
+
+topAcc
+3d : 869
+angel : 869
+brain : 869
+choloB : 869
+choloC : 869
+clear : 1738
+coolGuy : 35
+cyclopsBlue : 869
+cyclopsRed : 869
+goldCrown : 35
+grayCrown : 869
+inLove : 35
+laser : 35
+necroCrown : 35
+pixelCrown : 200
+shrm : 35
+yzzy : 869
+zombieBrain : 35
