@@ -6,7 +6,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Cult of the Skulls";
-const description = "Add description here";
+const description = "DO NOT ask who died... just follow the hearse";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
@@ -24,12 +24,12 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1000,
+    growEditionSizeTo: 6660,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
-      { name: "Accessory" },
       { name: "Feature" },
+      { name: "Accessory" },
     ],
   },
 ];
